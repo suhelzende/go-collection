@@ -24,5 +24,6 @@ func main() {
 	fmt.Println(ele)
 
 	// mh.Print()
-	fmt.Println()
+	fmt.Print()
+	fmt.Println("Hello World")
 }
